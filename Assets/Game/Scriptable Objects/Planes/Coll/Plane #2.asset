@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8344f417c4a84f7e8929d7a5df7228d8, type: 3}
+  m_Name: Plane #2
+  m_EditorClassIdentifier: 
+  _name: Advanced
+  _icon: {fileID: 21300000, guid: 2d16906b27617f04e9ad1afe5a12c602, type: 3}
+  _missionType: 1
+  _id: 2
+  _price: 590
+  _upgradePrice: 220
+  _maxSpeed: 1.05
+  _acceleration: 1.2
+  _controllability: 1.3

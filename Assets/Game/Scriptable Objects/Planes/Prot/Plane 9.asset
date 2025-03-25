@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8344f417c4a84f7e8929d7a5df7228d8, type: 3}
+  m_Name: Plane 9
+  m_EditorClassIdentifier: 
+  _name: best
+  _icon: {fileID: 21300000, guid: 8a5f8fd7e619bfb4fabb8f02971c1236, type: 3}
+  _missionType: 2
+  _id: 9
+  _price: 1115
+  _upgradePrice: 390
+  _maxSpeed: 1.5
+  _acceleration: 1.35
+  _controllability: 1.15
